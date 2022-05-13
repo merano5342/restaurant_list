@@ -1,6 +1,7 @@
 # **餐廳清單**
 
-# 
+![image](https://github.com/merano5342/restaurant_list/blob/main/Screen%20Shot%202022-05-13%20at%204.48.16%20PM.png)
+
 ## 簡介
 * 介紹台北不同類別的美食餐廳，點入餐廳圖片可看見更詳細資訊（地址、地圖連結、電話、簡介）
 * 可依照餐廳中英文名、分類、地區來搜尋
